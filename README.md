@@ -1,107 +1,118 @@
-<!-- Dynamic Header Banner -->
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D250%26section%3Dheader%26text%3DHi,%2520I%27m%2520Sihab!%26fontSize%3D70%26fontAlignY%3D35%26animation%3Dtwinkling%26fontColor%3Dffffff" width="100%" />
-
-<h3 align="center">💻 Class 10 Student | SSC 2026 | Learning & Growing</h3>
+<h1 align="center">Sihab</h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D20%26pause%3D1000%26color%3D00FF99%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DClass%2B10%2BStudent%3BSSC%2B2026%2BCandidate%3BLearning%2B%2526%2BGrowing%3BMinimalist%2B%2526%2BFocused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+Developer+from+Bangladesh;SSC+2026+%7C+Learning+by+Building;Less+Distraction+%2C+More+Growth" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge"/>
-</a>
-<!-- Add more social links if you want, like Email or Discord -->
-</p>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>📍 About Me</h3>
-<ul>
-<li>🏡 From <b>Pirganj, Thakurgaon, Bangladesh</b></li>
-<li>📚 Currently preparing for my <b>SSC 2026</b> exams</li>
-<li>🤖 Learning to code step by step</li>
-<li>🔧 Not working yet, but working on myself</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>🎯 My Goals</h3>
-<ul>
-<li>🏆 Achieve <b>GPA 5</b> in SSC 2026</li>
-<li>💡 Build practical, real-world projects</li>
-<li>🎥 Start a successful YouTube channel</li>
-<li>🚀 Consistently use time wisely</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<h3 align="center">💻 Tech Stack & Tools</h3>
-
-<p align="center">
-<!-- Skillicons are very modern and popular right now -->
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,html,css,markdown,github,vscode%26perline%3D7" alt="My Skills" />
-</a>
+  <strong>Class 10 Student • SSC 2026 • Learning & Growing Step by Step</strong>
 </p>
 
 <p align="center">
-<i>🛠️ Still exploring and building small projects!</i>
+  Focused on discipline, coding, and becoming better every day.
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+---
 
-<!-- REPLACE 'YOUR_GITHUB_USERNAME' WITH YOUR ACTUAL GITHUB USERNAME TO SEE YOUR STATS -->
+##  About Me
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub Streak" width="48%" />
+Hi, I'm **Sihab** — a student from **Pirganj, Thakurgaon, Bangladesh**.  
+I'm currently learning programming step by step and building small projects to improve my skills.
+
+-  SSC 2026 Batch
+-  Learning **Python** and **JavaScript**
+-  Exploring beginner-friendly development and practical projects
+-  Focused on growth, discipline, and consistency
+-  Not working yet — currently working on **myself**
+
+---
+
+##  Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
 </p>
 
+---
+
+##  Current Focus
+
+- Improving my coding fundamentals
+- Building small real-world projects
+- Managing time better with fewer distractions
+- Preparing seriously for **SSC 2026**
+- Growing step by step without rushing
+
+---
+
+##  PC Setup
+
+| Component | Specification |
+|----------|---------------|
+|  CPU | Intel Core i3-4170 @ 3.70GHz |
+|  RAM | 8 GB |
+|  Storage | 256 GB SSD |
+|  GPU | Integrated Graphics Only |
+
+---
+
+##  Goals
+
+-  Achieve **GPA 5** in SSC 2026
+-  Build useful and real-world projects
+-  Start a meaningful **YouTube channel**
+-  Use time wisely and stop wasting it
+-  Become skilled enough to create things independently
+
+---
+
+##  Minimal Lifestyle
+
+-  No personal phone
+-  Everything managed from PC
+-  Avoiding unnecessary distractions
+-  Choosing focus over noise
+
+---
+
+##  Featured Projects
+
+> I’m currently learning and building.  
+> Better projects are coming soon.
+
+-  Python Mini Projects
+-  JavaScript Practice Projects
+-  Student Productivity Tools
+-  Beginner Web Projects
+-  Personal Portfolio Website
+
+---
+
+##  GitHub Stats
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
 </p>
 
-<h3 align="center">🌿 Minimal Lifestyle & Workspace</h3>
+---
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-<h4>🎯 Focus First</h4>
-<ul>
-<li>❌ <b>No personal phone</b></li>
-<li>✅ All learning done via PC</li>
-<li>🚫 Zero unnecessary distractions</li>
-<li>🔥 100% Focused on growth</li>
-</ul>
-<blockquote><i>"Less distraction, more growth."</i></blockquote>
-</td>
-<td width="50%" valign="top">
-<h4>🖥️ My PC Setup</h4>
-<table align="left">
-<tr>
-<td><b>💽 CPU</b></td>
-<td>Intel Core i3-4170 @ 3.70GHz</td>
-</tr>
-<tr>
-<td><b>🧠 RAM</b></td>
-<td>8 GB</td>
-</tr>
-<tr>
-<td><b>⚡ Storage</b></td>
-<td>256 GB SSD</td>
-</tr>
-<tr>
-<td><b>🎮 GPU</b></td>
-<td>Integrated Only</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+##  Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" width="100%" />
+  <i>"Less distraction, more growth."</i>
 </p>
